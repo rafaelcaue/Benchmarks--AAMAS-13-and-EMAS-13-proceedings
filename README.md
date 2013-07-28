@@ -1,7 +1,7 @@
 Actor-Agent-based-benchmark-for-communication
 =============================================
 
-These are the codes used in the paper Benchmarking Communication in Actor- and Agent-Based Languages. All of the codes are for the configuration N = 500 000. For the other configurations simply change the appropriate values for each code.
+These are the codes used in the paper Benchmarking Communication in Actor- and Agent-Based Languages. All of the codes for Scenarios 1 and 2 are for the configuration N = 500 000. For the other configurations simply change the appropriate values for each code.
 
 The benchmark script used is available at: http://shootout.alioth.debian.org/
 
